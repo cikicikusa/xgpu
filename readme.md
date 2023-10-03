@@ -15,7 +15,7 @@ Easily set up a GPU mining server for XENBLOCKS mining. A single line of code in
    - Use a single line command below to get a new GPU server up and running (from 0 to full-speed mining with one press of a button).
    - Note: of course replace (JozefJarosciak/xgpu/main/gpu.sh) with path to your repo
    ```
-   apt update && apt -y install wget && wget https://raw.githubusercontent.com/JozefJarosciak/xgpu/main/gpu.sh && chmod +x gpu.sh && ./gpu.sh
+   apt update && apt -y install wget && wget https://raw.githubusercontent.com/cikicikusa/xgpu/main/gpu.sh && chmod +x gpu.sh && ./gpu.sh
    ```
 4. **Video DEMO**:
    - Follow along with the video demonstration below to set up your mining server:
@@ -25,7 +25,7 @@ Easily set up a GPU mining server for XENBLOCKS mining. A single line of code in
 # XENBLOCKS - Effortless Multi-GPU Mining
 Same idea as above, but now you can run multi-GPU with one command (if you order such a setup).
 ```
-apt update && apt -y install wget && wget https://raw.githubusercontent.com/JozefJarosciak/xgpu/main/gpu2.sh && chmod +x gpu2.sh && ./gpu2.sh
+apt update && apt -y install wget && wget https://raw.githubusercontent.com/cikicikusa/xgpu/main/gpu2.sh && chmod +x gpu2.sh && ./gpu2.sh
 ```
 
 # XENBLOCKS - USEFUL COMMANDS 
